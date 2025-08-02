@@ -35,6 +35,11 @@ const API_SITES = {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
     },
+     fenwe: {
+      api: 'https://pg.fenwe078.cf/api.php/provide/vod/',
+      name: '四圈影视',
+     detail: 'https://pg.fenwe078.cf',
+    },
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
@@ -48,6 +53,14 @@ const API_SITES = {
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
     },
+     taopian: {
+      api: 'https://taopianapi.com/cjapi/mc/vod/xml',
+      name: '淘片资源',
+    },
+      yzzy: {
+      api: 'https://api.yzzy-api.com/inc/api.php',
+      name: '柚子资源',
+    },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳',
@@ -57,6 +70,11 @@ const API_SITES = {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
     },
+    subo: {
+      api: 'https://subocaiji.com/api.php/provide/vod',
+      name: "速播采集",
+      detail: 'https://subocaiji.com',
+    },
     iqiyi: {
         api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
         name: 'iqiyi资源',
@@ -65,6 +83,10 @@ const API_SITES = {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
     }, 
+    yzzy: {
+       api: 'https://api.yzzy-api.com/inc/api.php',
+       name: '柚子资源',
+    },
     hwba: {
         api: 'https://cjhwba.com/api.php/provide/vod',
         name: '华为吧资源',
