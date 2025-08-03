@@ -35,11 +35,6 @@ const API_SITES = {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
     },
-     fenwe: {
-      api: 'https://pg.fenwe078.cf/api.php/provide/vod/',
-      name: '四圈影视',
-     detail: 'https://pg.fenwe078.cf',
-    },
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
@@ -69,11 +64,6 @@ const API_SITES = {
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
-    },
-    subo: {
-      api: 'https://subocaiji.com/api.php/provide/vod',
-      name: "速播采集",
-      detail: 'https://subocaiji.com',
     },
     iqiyi: {
         api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
